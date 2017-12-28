@@ -1,0 +1,1 @@
+<resources><string name="app_name">sqlitedbdemo</string><string-array name="city"><item>--select city--</item><item>Surat</item><item>Ahemdabad</item><item>Rajkot</item></string-array></resources>

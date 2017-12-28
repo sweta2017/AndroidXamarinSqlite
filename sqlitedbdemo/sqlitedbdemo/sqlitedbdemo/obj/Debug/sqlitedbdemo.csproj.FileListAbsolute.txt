@@ -1,0 +1,114 @@
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.csprojResolveAssemblyReference.cache
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.dll
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.pdb
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.sqlitedbdemo.apk
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.sqlitedbdemo-Signed.apk
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.csproj.CoreCompileInputs.cache
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.dll
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.pdb
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\android\bin\sqlitedbdemo.sqlitedbdemo.apk
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\main.xml
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\strings.xml
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\styles.xml
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\colors.xml
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\R.cs.flag
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\uploadflags.txt
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.dll.mdb
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\android\assets\sqlitedbdemo.dll.mdb
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\cal.png
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\password.png
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user.png
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\email.png
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Bindings.MaterialDateTimePicker.dll
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\users.xml
+C:\Users\dell  1\Desktop\xamarin\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\userlist.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.pdb
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.sqlitedbdemo.apk
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.sqlitedbdemo-Signed.apk
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.pdb
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\android\bin\sqlitedbdemo.sqlitedbdemo.apk
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\users.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\userlist.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\update.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\main.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\strings.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\styles.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\colors.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\password.png
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user.png
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\email.png
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\cal.png
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user1.png
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user3.png
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\menu\mymenu.xml
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\R.cs.flag
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\uploadflags.txt
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.dll.mdb
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\android\assets\sqlitedbdemo.dll.mdb
+C:\Users\NS-46\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.csprojResolveAssemblyReference.cache
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.pdb
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.sqlitedbdemo.apk
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.sqlitedbdemo-Signed.apk
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.csprojResolveAssemblyReference.cache
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.csproj.CoreCompileInputs.cache
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.dll
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\sqlitedbdemo.pdb
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\android\bin\sqlitedbdemo.sqlitedbdemo.apk
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\users.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\userlist.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\update.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\layout\main.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\strings.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\styles.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\values\colors.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\password.png
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user.png
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\email.png
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\cal.png
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user1.png
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\drawable\user3.png
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\res\menu\mymenu.xml
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\R.cs.flag
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\uploadflags.txt
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\bin\Debug\sqlitedbdemo.dll.mdb
+C:\Users\dell  1\Desktop\sqlitedbdemo\sqlitedbdemo\sqlitedbdemo\obj\Debug\android\assets\sqlitedbdemo.dll.mdb

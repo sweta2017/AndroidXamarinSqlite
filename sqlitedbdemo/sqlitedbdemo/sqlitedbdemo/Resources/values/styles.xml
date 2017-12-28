@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+  <style name="MyCustomTheme" parent="android:Theme.Material.Light.NoActionBar">
+    <item name="android:colorPrimary">@color/colorPrimary</item>
+    <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="android:colorAccent">@color/colorAccent</item>
+    <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    <item name="android:textColorPrimary">@color/textColorPrimary</item>
+
+  </style>
+  
+  <style name="MyCustomTheme1" parent="android:Theme.Material.Light">
+    <item name="android:colorPrimary">@color/colorPrimary</item>
+    <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="android:colorAccent">@color/colorAccent</item>
+    <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    <item name="android:textColorPrimary">@color/textColorPrimary</item>
+   
+       
+  </style>
+
+  
+</resources>
